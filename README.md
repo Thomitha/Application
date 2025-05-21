@@ -32,6 +32,8 @@ This tool helps in selecting brand-consistent colors, analyzing visual content, 
 ## Installation
 
 1. Clone the repository:
+   
+   git clone https://github.com/your-username/color-detection-app.git cd color-detection-app
 
 2. Create and activate a virtual environment (recommended):
 
