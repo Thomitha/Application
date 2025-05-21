@@ -44,7 +44,11 @@ venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
 
+3.Install required dependencies:
+
 pip install -r requirements.txt
 
+4.Ensure colors.csv is present in the project directory.
 
+## Run the Streamlit app with the following command:
 streamlit run app.py
